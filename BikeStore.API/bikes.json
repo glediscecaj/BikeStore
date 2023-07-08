@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "036eb4af-77c4-4055-b40b-c59a77698c5c",
+    "Model": "mmx",
+    "Make": "ferrari",
+    "Color": "red",
+    "Type": 0,
+    "Size": 30.3
+  },
+  {
+    "Id": "15b0bd64-2ee7-4ed5-9fd0-e7e24c4696fe",
+    "Model": "modelTest",
+    "Make": "maketest",
+    "Color": "blue",
+    "Type": 0,
+    "Size": 23.0
+  },
+  {
+    "Id": "9f3f6bf2-ea23-46fa-91f1-4d47a6458b3e",
+    "Model": "modelTest2",
+    "Make": "maketest2",
+    "Color": "yellow",
+    "Type": 1,
+    "Size": 25.5
+  }
+]
